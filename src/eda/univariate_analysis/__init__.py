@@ -1,1 +1,2 @@
 from src.eda.univariate_analysis.market_segments_analysis import plot_marketing_segments_insights
+from src.eda.univariate_analysis.cancellation_rates import plot_cancellation_metrics
