@@ -1,2 +1,3 @@
-from src.eda.bivariate_analysis.special_requests_analysis import plot_special_requests_analysis
 from src.eda.bivariate_analysis.lead_time_analysis import plot_lead_time_analysis
+from src.eda.bivariate_analysis.months_seasonality_analysis import plot_monthly_analysis
+from src.eda.bivariate_analysis.special_requests_analysis import plot_special_requests_analysis
